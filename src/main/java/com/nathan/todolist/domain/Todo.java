@@ -3,6 +3,7 @@ package com.nathan.todolist.domain;
 import java.time.LocalDateTime;
 import java.util.Objects;
 
+
 public class Todo {
 	private Integer id;
 	private String titulo;
